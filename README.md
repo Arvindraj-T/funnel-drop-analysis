@@ -205,14 +205,4 @@ pip install pandas numpy matplotlib seaborn jupyter
 jupyter notebook "funnel-drop.ipynb"
 ```
 ---
-## Profile & Dataset
 
-* 🔗 **LinkedIn:** [View My Profile](https://www.linkedin.com/in/analytics-ashish/)
-* 📂 **Dataset:** [Funnel Simulation Dataset on Kaggle](https://www.kaggle.com/datasets/sufya6/e-commerce-customer-journey-click-to-conversion)
-* 💻 **GitHub Repository:** [Funnel Drop Analysis](https://github.com/analytics-ak/funnel-drop-analysis/)
-* 📘 **Notebook:** [funnel-drop.ipynb](https://github.com/analytics-ak/funnel-drop-analysis/blob/main/funnel-drop.ipynb)
-
-<br>
-
-## Author: Ashish Kumar Dongre — Senior Data Analyst
-I love working with data and finding simple insights that help businesses grow. Skilled in **Python (Jupyter, pandas, seaborn, matplotlib)**, and experienced in turning raw data into clear, useful reports.
